@@ -1,4 +1,0 @@
-NFX
-===
-
-NFX test
